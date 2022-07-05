@@ -58,6 +58,11 @@ p {
     background-size: cover;
     background-position: center;
 }
+nav img{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+  }
 
 .float-left {
     float: left;
@@ -198,3 +203,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
