@@ -1,64 +1,24 @@
-# <Your-Project-Title>
+# <Challenge-1-Horiseon>
 
-## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
-## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+    - I feel a perfectly balanced code is right way to perfct web application. Using sematic code would make life a lot easier for Google SEO advertisements and would also make life easy for other developers to read through code.
 
-## Installation
+    - When i receieved the project i felt it contained a lot of descrepencies where the code was not balanced and semantic code was missing. I also felt the CSS code could be optimised to make the code the shorter and more effiecient to understand. An efficient code is always the best way to build an application as it makes lives very easy for devlopers to edit/add later on.
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+    - The biggest problem i perosnally felt here was the fact that the code was not very well optimised fpr SEO advertisments as sematic code is required for it.
 
-## Usage
+    - I learnt how to optimise code for SEO. Concise code writing for easier understanding.
 
-Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+
+
+
+
+
 ![alt my screenshot](/assets/images/Challenge1.png "My screenshot")
 
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
